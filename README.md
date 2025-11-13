@@ -1,12 +1,15 @@
-Hey I’m kio :))
+<div align="center"><img src="header.png" >
+<h2>About kio !</h2>
 
-I’m interested in coding, music, etc
+<h4>Coding since 2021 | Java Html CSS Javascript LuaU | Pinkpantheress' #1 fan</h4>
 
-I’m currently learning a lot
+⭐ Lord on mantis in MRivals
 
-she/her
+⭐ learning React and Python !
 
-Fun fact: I listen to a lot of music and even make somee :))
+⭐ Currently working on my <a href="https://github.com/Goodairquality/MP3-Player" >MP3 player project </a>
+
+<h4>Website : 🚧🚧🚧 IN CONSTRUCTION 😿 🚧🚧🚧</h4></div>
 
 <!---
 noquemakuhh/noquemakuhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
