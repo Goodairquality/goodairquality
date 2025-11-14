@@ -1,7 +1,7 @@
 <div align="center"><img src="header.png" >
 <h2>About kio !</h2>
 
-<h4>Coding since 2021 | Java Html CSS Javascript LuaU | Pinkpantheress' #1 fan</h4>
+<h4>Coding since 2021 | Java Html CSS Javascript LuaU | Pinkpantheress' #1 fan | President and founder of Club 404</h4>
 
 ⭐ Lord on mantis in MRivals
 
